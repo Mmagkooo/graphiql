@@ -29,7 +29,7 @@
     "@codemirror/state": "6.1.0",
     "@codemirror/theme-one-dark": "6.0.0",
     "@codemirror/view": "6.1.2",
-    "cm6-graphql": "0.0.1",
+    "cm6-graphql": "0.1.1",
     "graphql": "^16.9.0"
   },
   "devDependencies": {
